@@ -42,25 +42,30 @@ Kindly see the output:
 ![Image description](https://i1.faceprep.in/ProGrad/job_3.png)
 ### PROGRESSION 1 | JOB COMPONENT
 
-Fetch the data from the above api in job component and display it in homeComponent. The homeComponent consists of three components 
-- `SearchJobComponent`
-- `JobComponent`
-- `Page Component
+Fetch the data from the above api in job component, pass the data to home component using props and display it in homeComponent. 
 
-### PROGRESSION 2 | LOAD IT TO ME
-Create a `+` Button to call the search component. When the user enters the book to be searched, fetch the book based on the search parameter and display it.
+Check the output for your reference.
+![Image description](https://i1.faceprep.in/ProGrad/job_1.gif)
+### PROGRESSION 2 | JOB DETAIL
+In this progression, your task is to display the complete job description. Keep a button called as `View Details`. This a toggle button which should toggle between hide and show details.
 
-### PROGRESSION 3 | BOOK BOOK BOOK
-The bookcomponent has a button with 4 options
-- Read
-- Like
-- Dislike
-- Delete
+Check the output for your reference.
+![Image description](https://i1.faceprep.in/ProGrad/job_2-2.gif)
 
-Based on the user selected value, render it in the home page and display it as per the selected value. Please refer the screenshot for reference.
+### PROGRESSION 3 | PAGES
+In this progression, your task it to set the page number. Each page consists of twenty job posts. When the post exceeds more than twenty it should go to the next page.
 
-### Bonus
-Display at the bottom the count of books that are read,liked,disliked and deleted
+Check the output for your reference.
+![Image description](https://i1.faceprep.in/ProGrad/job_3.png)
+
+
+### PROGRESSION 4 | SEARCH FORM
+Search form is a separate component. Your task is to include the search form at the top of the HomeComponent. Based on the search filter, fetch the details and display it for the user.
+
+### PROGRESSION 5 | HOMECOMPONENT
+The home component is the parent component which embeds all other component. Please check the screenshot for your reference.
+
+![Image description](https://i1.faceprep.in/ProGrad/job_4.png)
 
 ## Submission
 
