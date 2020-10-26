@@ -36,10 +36,10 @@ use this api = "https://cors-anywhere.herokuapp.com/https://jobs.github.com/posi
 ```
 
 Kindly see the output:
-![Image description](https://i1.faceprep.in/ProGrad/job_4.PNG)
+![Image description](https://i1.faceprep.in/ProGrad/job_4.png)
 ![Image description](https://i1.faceprep.in/ProGrad/job_1.gif)
 ![Image description](https://i1.faceprep.in/ProGrad/job_2-2.gif)
-![Image description](https://i1.faceprep.in/ProGrad/job_3.PNG)
+![Image description](https://i1.faceprep.in/ProGrad/job_3.png)
 ### PROGRESSION 1 | JOB COMPONENT
 
 Fetch the data from the above api in job component and display it in homeComponent. The homeComponent consists of three components 
