@@ -62,10 +62,15 @@ Check the output for your reference.
 ### PROGRESSION 4 | SEARCH FORM
 Search form is a separate component. Your task is to include the search form at the top of the HomeComponent. Based on the search filter, fetch the details and display it for the user.
 
+![Image description](https://i1.faceprep.in/ProGrad/job_4.png)
+
 ### PROGRESSION 5 | HOMECOMPONENT
-The home component is the parent component which embeds all other component. Please check the screenshot for your reference.
+The home component is the parent component which embeds all other component. Please check the screenshots for your reference.
 
 ![Image description](https://i1.faceprep.in/ProGrad/job_4.png)
+![Image description](https://i1.faceprep.in/ProGrad/job_1.gif)
+![Image description](https://i1.faceprep.in/ProGrad/job_2-2.gif)
+![Image description](https://i1.faceprep.in/ProGrad/job_3.png)
 
 ## Submission
 
